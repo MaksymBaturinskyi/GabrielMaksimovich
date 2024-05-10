@@ -40,7 +40,7 @@
 </div>
 
 ### :warning: Top Languages :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMaksimovich&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaksymBaturinskyi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <div>
     <img src="https://komarev.com/ghpvc/?username=GabrielMaksimovich&style=flat-square&color=blue" alt=""/>
